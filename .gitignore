@@ -1,0 +1,12 @@
+Enhance UI Design
+Enhance UI Design.zip
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.venv
+venv/
+ENV/
+env.bak/
+venv.bak/
+.mypy_cache/
